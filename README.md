@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# JR Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A place to showcase my skills and interest
 
-## Available Scripts
+
+## Getting Started
 
 In the project directory, you can run:
 
