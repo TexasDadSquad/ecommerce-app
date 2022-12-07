@@ -1,6 +1,6 @@
-# Ecommerce App
+# JR Portfolio
 
-## An ecommerce sandbox built in React
+## A place to showcase my skills and interest
 
 
 ## Getting Started
